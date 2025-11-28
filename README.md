@@ -12,3 +12,7 @@ https://docs.google.com/spreadsheets/d/1vGHW0XCgTJjyAV4zPD_DZjqSiO0AR5enlm_8otET
 4. Crie uma página separada com todas as modalidades que juntam equipes (caso raro, mas ocorre em alguns torneios), apenas para atribuir as pontuações
 5. Coloque os chaveamentos corretos nas páginas criadas no passo 2 e coloque os resultados dos jogos, todo o cálculo da pontuação é feito de forma automática
 6. Adicione as pontuações das modalidades individuais para cada equipe na aba Individuais e das que juntam equipes na outra aba, caso seja necessário
+
+#Ferramentas
+1. Google Sheets
+O Excel não lida tão bem com algumas formas utilizadas na planilha, e é legal que o arquivo de pontuações seja de fácil compartilhamento, por isso a preferência pelo Google Sheets
